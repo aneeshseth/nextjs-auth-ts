@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is an application I made in NextJS 13 using Typescript in the process of understanding Authentication, Authorization, httpOnly Cookie management, middlewares in NextJS 13, more on the folder structure, and using a MongoDB cluster for the Database.
+
 ## Getting Started
 
 First, run the development server:
